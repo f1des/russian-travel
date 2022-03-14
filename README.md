@@ -20,4 +20,4 @@ CSS:
 Подключить Java Script со всеми вытекающими.
 
 ## Демонстрация проекта
-Для перехода нажмите по [ссылке](https://github.com/f1des/russian-travel/index.html).
+Для перехода нажмите по [ссылке](https://f1des.github.io/russian-travel/).
