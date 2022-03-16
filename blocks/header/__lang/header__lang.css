@@ -1,10 +1,7 @@
 .header__lang {
-  position: absolute;
   list-style-type: none;
   display: flex;
   gap: 16px;
-  right: 48px;
-  top: 46px;
   margin: 0;
   padding: 0;
 }
