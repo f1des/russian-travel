@@ -20,7 +20,7 @@
   height: 100%;
   background-color: #2A2C2F;
   opacity: .3;
-  transition: opacity .3s ease-out;
+  transition: opacity 1s ease-out .2s;
 }
 
 .cover__overlay:hover:after {
