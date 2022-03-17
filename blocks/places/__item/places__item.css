@@ -20,3 +20,10 @@
     padding: 36.5px 0;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .places__item {
+    grid-template-columns: 320px;
+    grid-template-rows: max-content;
+  }
+}
