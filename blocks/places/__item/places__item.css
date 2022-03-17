@@ -1,6 +1,6 @@
 .places__item {
   list-style-type: none;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: minmax(460px, 1fr) minmax(460px, 1fr);
+  gap: 48px 40px;
 }
