@@ -4,11 +4,5 @@
   gap: 16px;
   margin: 0;
   padding: 0;
-  align-self: end;
-}
-
-@media screen and (max-width: 320px) {
-  .header__lang {
-    align-self: center;
-  }
+  align-self: center;
 }
