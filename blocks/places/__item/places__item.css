@@ -25,5 +25,6 @@
   .places__item {
     grid-template-columns: 320px;
     grid-template-rows: max-content;
+    padding: 25px 0;
   }
 }

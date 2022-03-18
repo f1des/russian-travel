@@ -5,5 +5,25 @@
   flex-wrap: wrap;
   align-items: center;
   margin: 0 auto;
-  padding: 28px 48px 0;
+  padding: 28px 0 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    max-width: 720px;
+    padding: 28px 0 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header {    
+    max-width: 288px;
+    padding: 16px 0 0;
+  }
 }
