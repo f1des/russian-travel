@@ -7,6 +7,6 @@
   line-height: 18px;
 }
 
-.footer__link {
+.footer__link:hover {
   opacity: .8;
 }
