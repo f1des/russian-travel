@@ -4,9 +4,9 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center; 
+  align-items: center;
   background: url(../../../images/cover-trains.jpg) no-repeat center center;
-  background-size: cover;     
+  background-size: cover;  
   color: #fff;
   text-decoration: none;
   text-align: center;
