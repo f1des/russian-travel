@@ -5,9 +5,15 @@
   justify-content: space-between;
 }
 
+@media screen and (max-width: 1280px) {
+  .footer {
+    margin: 28px 48px 0;
+  }
+}
+
 @media screen and (max-width: 1024px) {
   .footer {
-    max-width: 928px; 
+    margin: 28px 24px 0;
   }
 }
 
@@ -17,3 +23,10 @@
     flex-direction: column;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .footer {    
+    margin: 16px 16px 0;
+  }
+}
+

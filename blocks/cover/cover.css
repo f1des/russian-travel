@@ -2,18 +2,6 @@
   max-width: 100%;
   margin: 52px auto 92px;
 }
-/*
-@media screen and (max-width: 1280px) {
-  .cover {
-    max-width: 1024px;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  .cover {
-    max-width: 768px;
-  }
-}*/
 
 @media screen and (max-width: 768px) {
   .cover {
