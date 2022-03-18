@@ -16,15 +16,3 @@
     margin: 0 0 16px;
   }  
 }
-
-@media screen and (max-width: 425px) {
-  .cover__title {
-    
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .cover__title {
-    
-  }
-}

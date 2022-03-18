@@ -1,4 +1,5 @@
-.intro__list {
+.intro__list {  
+  max-width: 690px;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
