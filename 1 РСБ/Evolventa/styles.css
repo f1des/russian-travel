@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Evolventa-Regular';
+  src: url(./Evolventa-Regular.eot);
+  src: url(./Evolventa-Regular.eot?#iefix) format('embedded-opentype'),
+       url(./Evolventa-Regular.svg#Evolventa-Regular) format('svg'),
+       url(./Evolventa-Regular.woff2) format('woff2');
+}

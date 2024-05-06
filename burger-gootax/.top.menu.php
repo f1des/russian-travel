@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Home", 
+		"/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Menu", 
+		"/menu", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"About", 
+		"/about", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Blog", 
+		"/blog", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Single-blog", 
+		"/single-blog", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Elements", 
+		"/elements", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Contact", 
+		"/contact", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./styles/css/normalize.css" rel="stylesheet"/>
+    <link href="./styles/css/main.min.css" rel="stylesheet"/>
+    <script src="./scripts/script.js"></script>
+    <title>Пойдешь со мной на свидание?</title>
+  </head>
+
+  <body class="page">
+    <div>
+      <header>
+        <h1 class="header__title" id="typingText"></h1>
+      </header>
+
+      <div id="modal-container">
+        <div class="modal-background">
+          <div class="modal">
+            <p>I'm a Modal</p>
+            <p>Hear me roar.</p>
+            <!-- <img src="./images/love.png" class="modal-svg" alt=""> -->
+          </div>
+        </div>
+      </div>
+      
+      <main class="content">
+        <section class="gif">
+          <img class="cat" src="./images/kotik.gif" alt="Котик с лапками">
+        </section>
+
+        <section class="buttons__wrapper">
+          <button class="button bubbly-button" id="agreeButton">Да</button>      
+          <button class="button bubbly-button" id="disagreeButton" onclick="handleClick()" onmouseover="handleMouseOver()">Нет</button>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>

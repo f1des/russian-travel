@@ -1,0 +1,25 @@
+.header {  
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 28px 48px 0;
+}
+
+@media screen and (max-width: 1280px) {
+  .header {
+    margin: 28px 48px 0;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    margin: 28px 24px 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header {    
+    margin: 16px 16px 0;
+  }
+}
